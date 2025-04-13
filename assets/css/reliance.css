@@ -767,8 +767,8 @@ Banner Style
 }
 
 .main-banner .item h2 {
-  font-size: 55px;
-  font-weight: 700;
+  font-size: 40px;
+  font-weight: 600;
   text-transform: uppercase;
   color: #fff;
   line-height: 72px;
@@ -777,11 +777,11 @@ Banner Style
 }
 
 .main-banner  .item h5 {
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 700;
   text-transform: uppercase;
   color: #fff;
-  line-height: 25px;
+  line-height: 20px;
   width: 100%;
   margin-bottom: 0px;
 }
